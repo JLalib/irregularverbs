@@ -1,0 +1,133 @@
+<!DOCTYPE html><html lang="en"><head>
+  <meta charset="UTF-8">
+  <title>Irregular Verbs Game</title>
+  <script src="sweetalert2.all.min.js"></script>
+</head>
+
+<body>
+  <style>
+    * {
+      transition: all 0.3s;
+    }
+
+    body {
+      background: cadetblue;
+      padding: 0;
+      margin: 0;
+      text-align: center;
+      font-family: calibri;
+      font-size: 120%;
+    }
+
+    .contenedor {
+      width: 98vw;
+      height: 97vh;
+      display: inline;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      margin: auto;
+    }
+
+    .encabezado {
+      position: relative;
+      background: white;
+      min-width: 300px;
+      width: 70%;
+      max-width: 600px;
+      padding: 10px;
+    }
+
+    .categoria {
+      opacity: 0.5;
+      text-align: center;
+    }
+
+    .pregunta {
+      padding: 10px;
+      }
+
+    .imagen {
+      object-fit: cover;
+      height: 0px;
+      width: 0px;
+    }
+
+    .btn {
+      background: white;
+      width: 60%;
+      max-width: 550px;
+      padding: 10px;
+      margin: 5px;
+      cursor: pointer;
+    }
+
+    .btn:hover {
+      transform: scale(1.05);
+    }
+    
+    .numero{
+      position: absolute;
+      opacity:0.3;
+      top: 10px;
+      right: 10px;
+    }
+    
+    .puntaje{
+      padding:10px;
+      color:white;
+    }
+    .myButton {
+  box-shadow: 0px 1px 0px 0px #f0f7fa;
+  background:linear-gradient(to bottom, #33bdef 5%, #019ad2 100%);
+  background-color:#33bdef;
+  border-radius:6px;
+  border:1px solid #057fd0;
+  display:inline-block;
+  cursor:pointer;
+  color:#ffffff;
+  font-family:Arial;
+  font-size:15px;
+  font-weight:bold;
+  padding:6px 24px;
+  text-decoration:none;
+  text-shadow:0px -1px 0px #5b6178;
+}
+.myButton:hover {
+  background:linear-gradient(to bottom, #019ad2 5%, #33bdef 100%);
+  background-color:#019ad2;
+}
+.myButton:active {
+  position:relative;
+  top:1px;
+}
+a:hover {color: black;}
+  </style>
+
+  <h1>Irregular Verbs Game</h1>
+<a href="#" class="myButton">Past Simple</a> <a href="#" class="myButton">Past Participle</a> <a href="#" class="myButton">P. Simple / Participle</a> 
+  <div class="contenedor"><br>
+     
+    <div class="puntaje" id="puntaje"></div>
+    <center> <div class="encabezado">
+      <div class="categoria" id="categoria">
+      </div>
+      <div class="numero" id="numero"></div>
+      <div class="pregunta" id="pregunta">
+      </div>
+      <img src="#" class="imagen" id="imagen">
+    </div>
+
+    <div class="btn" id="btn1" onclick="oprimir_btn(0)"></div>
+    <div class="btn" id="btn2" onclick="oprimir_btn(1)"></div>
+    <div class="btn" id="btn3" onclick="oprimir_btn(2)"></div>
+    <div class="btn" id="btn4" onclick="oprimir_btn(3)"></div>
+    <script src="index.js"></script>
+  </div>
+  <br>
+  <br>
+</center>
+</body>
+<small>Bilal Jebari<br><a style="text-decoration:none" href="https://e-corp.ddns.net/bilaljebari" >e-corp.ddns.net/bilaljebari</a></small>
+</html>
