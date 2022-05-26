@@ -1,628 +1,621 @@
 [    
 	{
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "be",
-        "respuesta": "was/were / been",
-        "incorrecta1": "i / was",
-        "incorrecta2": "wes / wis",
-        "incorrecta3": "wais / wais"
+        "respuesta": "was/were",
+        "incorrecta1": "i",
+        "incorrecta2": "wes",
+        "incorrecta3": "wais"
     },
     {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "beat",
-        "respuesta": "beat / beaten",
-        "incorrecta1": "beated / beaten",
-        "incorrecta2": "biit / biiten",
-        "incorrecta3": "beat / beit"
+        "respuesta": "beat",
+        "incorrecta1": "biit",
+        "incorrecta2": "bated",
+        "incorrecta3": "beated"
     },
     {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "become",
-        "respuesta": "became / become",
-        "incorrecta1": "becaime / become",
-        "incorrecta2": "bicam / became",
-        "incorrecta3": "beccome / becaime"
+        "respuesta": "became",
+        "incorrecta1": "becaime",
+        "incorrecta2": "bicam",
+        "incorrecta3": "beccome"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "begin",
-        "respuesta": "began / begun",
-        "incorrecta1": "begane / begun",
-        "incorrecta2": "bigann / beigan",
-        "incorrecta3": "begun / begin"
+        "respuesta": "began",
+        "incorrecta1": "begane",
+        "incorrecta2": "bigann",
+        "incorrecta3": "begun"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "bite",
-        "respuesta": "bit / bitten",
-        "incorrecta1": "bited / bited",
-        "incorrecta2": "bit / bited",
-        "incorrecta3": "beit / beit"
+        "respuesta": "bit",
+        "incorrecta1": "bited",
+        "incorrecta2": "beited",
+        "incorrecta3": "bait"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "break",
-        "respuesta": "broke / broken",
-        "incorrecta1": "broken / breik",
-        "incorrecta2": "bruk / broken",
-        "incorrecta3": "break / breik"
+        "respuesta": "broke",
+        "incorrecta1": "broken",
+        "incorrecta2": "bruk",
+        "incorrecta3": "break"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "bring",
-        "respuesta": "brought / brought",
-        "incorrecta1": "brught / brang",
-        "incorrecta2": "broutgh / breight",
-        "incorrecta3": "breight / bring"
+        "respuesta": "brought",
+        "incorrecta1": "brught",
+        "incorrecta2": "broutgh",
+        "incorrecta3": "breight"
     },
     {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "build",
-        "respuesta": "built / built",
-        "incorrecta1": "builden / build",
-        "incorrecta2": "buil / build",
-        "incorrecta3": "bould / bold"
+        "respuesta": "built",
+        "incorrecta1": "builden",
+        "incorrecta2": "buil",
+        "incorrecta3": "bould"
     },
     {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "buy",
-        "respuesta": "bought / bought",
-        "incorrecta1": "bught / broutgh",
-        "incorrecta2": "bougth / bougth",
-        "incorrecta3": "bught / bught"
+        "respuesta": "bought",
+        "incorrecta1": "bught",
+        "incorrecta2": "bougth",
+        "incorrecta3": "bught"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "can",
-        "respuesta": "could / -",
-        "incorrecta1": "cud / -",
-        "incorrecta2": "coult / -",
-        "incorrecta3": "couldt / -"
+        "respuesta": "could",
+        "incorrecta1": "cud",
+        "incorrecta2": "coult",
+        "incorrecta3": "couldt"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "catch",
-        "respuesta": "caught / caught",
-        "incorrecta1": "cught / caught",
-        "incorrecta2": "cought / cought",
-        "incorrecta3": "catch / catch"
+        "respuesta": "caught",
+        "incorrecta1": "cught",
+        "incorrecta2": "cought",
+        "incorrecta3": "catch"
     },
     {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "choose",
-        "respuesta": "chose / chosen",
-        "incorrecta1": "chossen / chossen",
-        "incorrecta2": "chouse / chosen",
-        "incorrecta3": "chuze / chosen"
+        "respuesta": "chose",
+        "incorrecta1": "chossen",
+        "incorrecta2": "chouse",
+        "incorrecta3": "chuze"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "come",
-        "respuesta": "came / come",
-        "incorrecta1": "caame / came",
-        "incorrecta2": "cume / cumen",
-        "incorrecta3": "kame / kome"
+        "respuesta": "came",
+        "incorrecta1": "caame",
+        "incorrecta2": "cume",
+        "incorrecta3": "kame"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "cost",
-        "respuesta": "cost / cost",
-        "incorrecta1": "coust / cost",
-        "incorrecta2": "costen / cost",
-        "incorrecta3": "caoust / coust"
+        "respuesta": "cost",
+        "incorrecta1": "coust",
+        "incorrecta2": "costen",
+        "incorrecta3": "caoust"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "cut",
-        "respuesta": "cut / cut",
-        "incorrecta1": "cout / cout",
-        "incorrecta2": "kut / kut",
-        "incorrecta3": "cat / cat"
+        "respuesta": "cut",
+        "incorrecta1": "cout",
+        "incorrecta2": "kut",
+        "incorrecta3": "cat"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "do",
-        "respuesta": "did / done",
-        "incorrecta1": "dyd / dyd",
-        "incorrecta2": "dide / done",
-        "incorrecta3": "deid / do"
+        "respuesta": "did",
+        "incorrecta1": "dyd",
+        "incorrecta2": "dide",
+        "incorrecta3": "deid"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "draw",
-        "respuesta": "drew / drawn",
-        "incorrecta1": "driw / driw",
-        "incorrecta2": "drouw / drawn",
-        "incorrecta3": "drit / drew"
+        "respuesta": "drew",
+        "incorrecta1": "driw",
+        "incorrecta2": "drouw",
+        "incorrecta3": "drit"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "dream",
-        "respuesta": "dreamt / dreamt",
-        "incorrecta1": "dreimt / dreimt",
-        "incorrecta2": "draimt / dreamt",
-        "incorrecta3": "droum / droum"
+        "respuesta": "dreamt",
+        "incorrecta1": "dreimt",
+        "incorrecta2": "draimt",
+        "incorrecta3": "droum"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "drink",
-        "respuesta": "drank / drunk",
-        "incorrecta1": "dranke / dranke",
-        "incorrecta2": "drounk / drounk",
-        "incorrecta3": "drounk / drank"
+        "respuesta": "drank",
+        "incorrecta1": "dranke",
+        "incorrecta2": "drounk",
+        "incorrecta3": "drounk"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "drive",
-        "respuesta": "drove / driven",
-        "incorrecta1": "drouve / drouve",
-        "incorrecta2": "drouvt / drouven",
-        "incorrecta3": "droved / driven"
+        "respuesta": "drove",
+        "incorrecta1": "drouve",
+        "incorrecta2": "drouvt",
+        "incorrecta3": "droved"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "eat",
-        "respuesta": "ate / eaten",
-        "incorrecta1": "eit / eit",
-        "incorrecta2": "it / iten",
-        "incorrecta3": "eited / eited"
+        "respuesta": "ate",
+        "incorrecta1": "eit",
+        "incorrecta2": "it",
+        "incorrecta3": "eited"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "fall",
-        "respuesta": "fell / fallen",
-        "incorrecta1": "fill / fall",
-        "incorrecta2": "foull / foull",
-        "incorrecta3": "fall / fallen"
+        "respuesta": "fell",
+        "incorrecta1": "fill",
+        "incorrecta2": "foull",
+        "incorrecta3": "fall"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "feel",
-        "respuesta": "felt / felt",
-        "incorrecta1": "filt / filt",
-        "incorrecta2": "feilt / feilt",
-        "incorrecta3": "feelt / feelt"
+        "respuesta": "felt",
+        "incorrecta1": "filt",
+        "incorrecta2": "feilt",
+        "incorrecta3": "feelt"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "find",
-        "respuesta": "found / found",
-        "incorrecta1": "fund / fund",
-        "incorrecta2": "fouin / found",
-        "incorrecta3": "fownd / fownd"
+        "respuesta": "found",
+        "incorrecta1": "fund",
+        "incorrecta2": "fouin",
+        "incorrecta3": "fownd"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "fly",
-        "respuesta": "flew / flown",
-        "incorrecta1": "fliw / fliw",
-        "incorrecta2": "flawou / flawou",
-        "incorrecta3": "fleid / fleid"
+        "respuesta": "flew",
+        "incorrecta1": "fliw",
+        "incorrecta2": "flawou",
+        "incorrecta3": "fleid"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "forget",
-        "respuesta": "forgot / forgotten",
-        "incorrecta1": "fourgot / fourgot",
-        "incorrecta2": "furgot / furgot",
-        "incorrecta3": "forgotd / forgotten"
+        "respuesta": "forgot",
+        "incorrecta1": "fourgot",
+        "incorrecta2": "furgot",
+        "incorrecta3": "feirgotd"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "get",
-        "respuesta": "got / got",
-        "incorrecta1": "gut / gut",
-        "incorrecta2": "gat / gat",
-        "incorrecta3": "geit / geit"
+        "respuesta": "got",
+        "incorrecta1": "gut",
+        "incorrecta2": "gat",
+        "incorrecta3": "geit"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "give",
-        "respuesta": "gave / given",
-        "incorrecta1": "give / give",
-        "incorrecta2": "geive / geive",
-        "incorrecta3": "geivd / geivd"
+        "respuesta": "gave",
+        "incorrecta1": "give",
+        "incorrecta2": "geive",
+        "incorrecta3": "geivd"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "go",
-        "respuesta": "went / gone",
-        "incorrecta1": "wen / gon",
-        "incorrecta2": "gotd / gone",
-        "incorrecta3": "wint / wint"
+        "respuesta": "went",
+        "incorrecta1": "wen",
+        "incorrecta2": "gotd",
+        "incorrecta3": "wint"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "grow",
-        "respuesta": "grew / grown",
-        "incorrecta1": "griw / griw",
-        "incorrecta2": "growed / grown",
-        "incorrecta3": "growdt / growd"
+        "respuesta": "grew",
+        "incorrecta1": "griw",
+        "incorrecta2": "growed",
+        "incorrecta3": "growdt"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "hang",
-        "respuesta": "hung / hung",
-        "incorrecta1": "haung / haung",
-        "incorrecta2": "hangned / hanged",
-        "incorrecta3": "haned / haned"
+        "respuesta": "hung",
+        "incorrecta1": "haung",
+        "incorrecta2": "hangned",
+        "incorrecta3": "haned"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "have",
-        "respuesta": "had / had",
-        "incorrecta1": "hat / hat",
-        "incorrecta2": "heid /heid",
-        "incorrecta3": "haved / had"
+        "respuesta": "had",
+        "incorrecta1": "hat",
+        "incorrecta2": "heid",
+        "incorrecta3": "haved"
     },
 
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "hear",
-        "respuesta": "heard / heard",
-        "incorrecta1": "heardt / heardt",
-        "incorrecta2": "hiard / heard",
-        "incorrecta3": "heared / heard"
+        "respuesta": "heard",
+        "incorrecta1": "heardt",
+        "incorrecta2": "hiard",
+        "incorrecta3": "heared"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "hit",
-        "respuesta": "hit / hit",
-        "incorrecta1": "heit / heit",
-        "incorrecta2": "hate / hate",
-        "incorrecta3": "heided / heided"
+        "respuesta": "hit",
+        "incorrecta1": "heit",
+        "incorrecta2": "hate",
+        "incorrecta3": "heided"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
-        "pregunta": "hurt",
-        "respuesta": "hurt / hurt",
-        "incorrecta1": "hurted / hurted",
-        "incorrecta2": "hurt / hurten",
-        "incorrecta3": "hurteid / hurt"
-    },
-{
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "keep",
-        "respuesta": "kept / kept",
-        "incorrecta1": "keeped / keeped",
-        "incorrecta2": "keipt / keipt",
-        "incorrecta3": "kieped / kept"
+        "respuesta": "kept",
+        "incorrecta1": "keeped",
+        "incorrecta2": "keipt",
+        "incorrecta3": "kieped"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "know",
-        "respuesta": "knew / known",
-        "incorrecta1": "knewen / knewn",
-        "incorrecta2": "knowd / knowd",
-        "incorrecta3": "knowded / knowed"
+        "respuesta": "knew",
+        "incorrecta1": "knewen",
+        "incorrecta2": "knowd",
+        "incorrecta3": "knowded"
     },
 
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "learn",
-        "respuesta": "learnt / learnt",
-        "incorrecta1": "learned / learned",
-        "incorrecta2": "liarnd / liarned",
-        "incorrecta3": "liarnt / liarnt"
+        "respuesta": "learnt",
+        "incorrecta1": "learned",
+        "incorrecta2": "liarnd",
+        "incorrecta3": "liarnt"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "leave",
-        "respuesta": "left / left",
-        "incorrecta1": "left / leftd",
-        "incorrecta2": "lifted / left",
-        "incorrecta3": "leeft / leeft"
+        "respuesta": "left",
+        "incorrecta1": "leftd",
+        "incorrecta2": "lifted",
+        "incorrecta3": "leeft"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "lend",
-        "respuesta": "lent / lent",
-        "incorrecta1": "lended / lent",
-        "incorrecta2": "lented / lented",
-        "incorrecta3": "leint / leint"
+        "respuesta": "lent",
+        "incorrecta1": "lended",
+        "incorrecta2": "lented",
+        "incorrecta3": "leint"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "let",
-        "respuesta": "let / let",
-        "incorrecta1": "leted / leted",
-        "incorrecta2": "leited / leited",
-        "incorrecta3": "leded / let"
+        "respuesta": "let",
+        "incorrecta1": "leted",
+        "incorrecta2": "leited",
+        "incorrecta3": "leded"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "lie",
-        "respuesta": "lay / lain",
-        "incorrecta1": "leiy / leid",
-        "incorrecta2": "leided / leided",
-        "incorrecta3": "layed / lain"
+        "respuesta": "lay",
+        "incorrecta1": "leiy",
+        "incorrecta2": "leided",
+        "incorrecta3": "layed"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "lose",
-        "respuesta": "lost / lost",
-        "incorrecta1": "losted / losted",
-        "incorrecta2": "losed / losed",
-        "incorrecta3": "loust / loust"
+        "respuesta": "lost",
+        "incorrecta1": "losted",
+        "incorrecta2": "losed",
+        "incorrecta3": "loust"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "make",
-        "respuesta": "made / made",
-        "incorrecta1": "meik / meik",
-        "incorrecta2": "maked / maked",
+        "respuesta": "made",
+        "incorrecta1": "meik",
+        "incorrecta2": "maked",
         "incorrecta3": "maded"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "mean",
-        "respuesta": "meant / meant",
-        "incorrecta1": "meaned / meant",
-        "incorrecta2": "meint / meand",
-        "incorrecta3": "meanted / meanted"
+        "respuesta": "meant",
+        "incorrecta1": "meaned",
+        "incorrecta2": "meint",
+        "incorrecta3": "meanted"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "meet",
-        "respuesta": "met / met",
-        "incorrecta1": "meeted / meeted",
-        "incorrecta2": "med / med",
-        "incorrecta3": "meted / meted"
+        "respuesta": "met",
+        "incorrecta1": "meeted",
+        "incorrecta2": "med",
+        "incorrecta3": "meted"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "pay",
-        "respuesta": "paid / paid",
-        "incorrecta1": "peid / peid",
-        "incorrecta2": "payed / paid",
-        "incorrecta3": "peyet / peyet"
+        "respuesta": "paid",
+        "incorrecta1": "peid",
+        "incorrecta2": "payed",
+        "incorrecta3": "peyet"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "put",
-        "respuesta": "put / put",
-        "incorrecta1": "puted / puted",
-        "incorrecta2": "pouted / pouted",
-        "incorrecta3": "putyed / putyed"
+        "respuesta": "put",
+        "incorrecta1": "puted",
+        "incorrecta2": "pouted",
+        "incorrecta3": "putyed"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "read",
-        "respuesta": "read / read",
-        "incorrecta1": "riad / redded",
-        "incorrecta2": "readed / readed",
-        "incorrecta3": "readid / raded"
+        "respuesta": "read",
+        "incorrecta1": "riad",
+        "incorrecta2": "readed",
+        "incorrecta3": "readid"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "ride",
-        "respuesta": "rode / ridden",
-        "incorrecta1": "roded / roded",
-        "incorrecta2": "rouded / rouded",
-        "incorrecta3": "roude / roude"
+        "respuesta": "rode",
+        "incorrecta1": "roded",
+        "incorrecta2": "rouded",
+        "incorrecta3": "roude"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "ring",
-        "respuesta": "rang / rung",
-        "incorrecta1": "raned / raned",
-        "incorrecta2": "raouned / rouned",
-        "incorrecta3": "ringed / ringed"
+        "respuesta": "rang",
+        "incorrecta1": "raned",
+        "incorrecta2": "raouned",
+        "incorrecta3": "ringed"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "run",
-        "respuesta": "ran / run",
-        "incorrecta1": "raned / raned",
-        "incorrecta2": "rouned / rouned",
-        "incorrecta3": "runed / runed"
+        "respuesta": "ran",
+        "incorrecta1": "raned",
+        "incorrecta2": "rouned",
+        "incorrecta3": "runed"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "say",
-        "respuesta": "said / said",
-        "incorrecta1": "sayed / said",
-        "incorrecta2": "saeided / saided",
-        "incorrecta3": "saitd / said"
+        "respuesta": "said",
+        "incorrecta1": "sayed",
+        "incorrecta2": "saeided",
+        "incorrecta3": "saitd"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "see",
-        "respuesta": "saw / seen",
-        "incorrecta1": "seid / siin",
-        "incorrecta2": "seed / seed",
-        "incorrecta3": "seded / sead"
+        "respuesta": "saw",
+        "incorrecta1": "seid",
+        "incorrecta2": "seed",
+        "incorrecta3": "seded"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "sell",
-        "respuesta": "sold / sold",
-        "incorrecta1": "selled / solded",
-        "incorrecta2": "solded / solded",
-        "incorrecta3": "sould / sould"
+        "respuesta": "sold",
+        "incorrecta1": "selled",
+        "incorrecta2": "solded",
+        "incorrecta3": "sould"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "send",
-        "respuesta": "sent / sent",
-        "incorrecta1": "sended / sended",
-        "incorrecta2": "sented / sented",
-        "incorrecta3": "seind / seind"
+        "respuesta": "sent",
+        "incorrecta1": "sended",
+        "incorrecta2": "sented",
+        "incorrecta3": "seind"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "set",
-        "respuesta": "set / set",
-        "incorrecta1": "seted / set",
-        "incorrecta2": "seited / seitd",
-        "incorrecta3": "souded / souded"
+        "respuesta": "set",
+        "incorrecta1": "seted",
+        "incorrecta2": "seited",
+        "incorrecta3": "souded"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "shine",
-        "respuesta": "shone / shone",
-        "incorrecta1": "shined / shined",
-        "incorrecta2": "shoned / shone",
-        "incorrecta3": "shouned / shouned"
+        "respuesta": "shone",
+        "incorrecta1": "shined",
+        "incorrecta2": "shoned",
+        "incorrecta3": "shouned"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "shut",
-        "respuesta": "shut / shuted",
-        "incorrecta1": "shuted / shuted",
-        "incorrecta2": "shouted / shut",
-        "incorrecta3": "shout / shout"
+        "respuesta": "shut",
+        "incorrecta1": "shuted",
+        "incorrecta2": "shouted",
+        "incorrecta3": "shout"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "sing",
-        "respuesta": "sang / sung",
-        "incorrecta1": "sand / sung",
-        "incorrecta2": "seinged / sang",
-        "incorrecta3": "sangund / sangund"
+        "respuesta": "sang",
+        "incorrecta1": "sand",
+        "incorrecta2": "seinged",
+        "incorrecta3": "sangund"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "sit",
-        "respuesta": "sat / sat",
-        "incorrecta1": "sated / sated",
-        "incorrecta2": "seat / sat",
-        "incorrecta3": "sited / sat"
+        "respuesta": "sat",
+        "incorrecta1": "sated",
+        "incorrecta2": "seat",
+        "incorrecta3": "sited"
     },
+    
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "sleep",
-        "respuesta": "slept / slept",
-        "incorrecta1": "sleeped / sleeped",
-        "incorrecta2": "sleipt / sleipt",
-        "incorrecta3": "sleupt / sleupt"
+        "respuesta": "slept",
+        "incorrecta1": "sleeped",
+        "incorrecta2": "sleipt",
+        "incorrecta3": "sleupt"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "smell",
-        "respuesta": "smelt / smelt",
-        "incorrecta1": "smelled / smelled",
-        "incorrecta2": "smalled / smalled",
-        "incorrecta3": "semltd / smelt"
+        "respuesta": "smelt",
+        "incorrecta1": "smelled",
+        "incorrecta2": "smalled",
+        "incorrecta3": "semltd"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "speak",
-        "respuesta": "spoke / spoken",
-        "incorrecta1": "speaked / speaked",
-        "incorrecta2": "spouke / spoken",
-        "incorrecta3": "speaktd / speaked"
+        "respuesta": "spoke",
+        "incorrecta1": "speaked",
+        "incorrecta2": "spouke",
+        "incorrecta3": "speaktd"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "spend",
-        "respuesta": "spent / spent",
-        "incorrecta1": "spended / speint",
-        "incorrecta2": "speint / spent",
-        "incorrecta3": "spownt / spownt"
+        "respuesta": "spent",
+        "incorrecta1": "spended",
+        "incorrecta2": "speint",
+        "incorrecta3": "spownt"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "stand",
-        "respuesta": "stood / stood",
-        "incorrecta1": "standed / standed",
-        "incorrecta2": "stouded / steind",
-        "incorrecta3": "steind / steind"
+        "respuesta": "stood",
+        "incorrecta1": "standed",
+        "incorrecta2": "stouded",
+        "incorrecta3": "steind"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "steal",
-        "respuesta": "stole / stolen",
-        "incorrecta1": "stealed / stealed",
-        "incorrecta2": "steilded / stoll",
-        "incorrecta3": "stoll / stoll"
+        "respuesta": "stole",
+        "incorrecta1": "stealed",
+        "incorrecta2": "steilded",
+        "incorrecta3": "stoll"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "swim",
-        "respuesta": "swam / swum",
-        "incorrecta1": "swmied / swimmed",
-        "incorrecta2": "swimmed / swmied",
-        "incorrecta3": "swamnd / swamnd"
+        "respuesta": "swam",
+        "incorrecta1": "swmied",
+        "incorrecta2": "swimmed",
+        "incorrecta3": "swamnd"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "take",
-        "respuesta": "took / taken",
-        "incorrecta1": "taked / taked",
-        "incorrecta2": "teiken / teiken",
-        "incorrecta3": "taked / taked"
+        "respuesta": "took",
+        "incorrecta1": "taked",
+        "incorrecta2": "teiken",
+        "incorrecta3": "taked"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "teach",
-        "respuesta": "taught / taught",
-        "incorrecta1": "teached / teached",
-        "incorrecta2": "teacheded / teacheded",
-        "incorrecta3": "taughd / taught"
+        "respuesta": "taught",
+        "incorrecta1": "teached",
+        "incorrecta2": "teacheded",
+        "incorrecta3": "taughd"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "tell",
-        "respuesta": "told / told",
-        "incorrecta1": "telled / tolded",
-        "incorrecta2": "tolded / tolded",
-        "incorrecta3": "tellen / told"
+        "respuesta": "told",
+        "incorrecta1": "telled",
+        "incorrecta2": "tolded",
+        "incorrecta3": "tellen"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "think",
-        "respuesta": "thought / thought",
-        "incorrecta1": "thinked / thinkd",
-        "incorrecta2": "theinded / thinked",
-        "incorrecta3": "thinkd / thought"
+        "respuesta": "thought",
+        "incorrecta1": "thinked",
+        "incorrecta2": "theinded",
+        "incorrecta3": "thinkd"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "throw",
-        "respuesta": "threw / thrown",
-        "incorrecta1": "threwed / thrown",
-        "incorrecta2": "throwded / threwed",
-        "incorrecta3": "throwtd / thrownd"
+        "respuesta": "threw",
+        "incorrecta1": "threwed",
+        "incorrecta2": "throwded",
+        "incorrecta3": "throwtd"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "understand",
-        "respuesta": "understood / understood",
-        "incorrecta1": "understanded / understood",
-        "incorrecta2": "understooded / understand",
-        "incorrecta3": "understantd / understooded"
+        "respuesta": "understood",
+        "incorrecta1": "understanded",
+        "incorrecta2": "understooded",
+        "incorrecta3": "understantd"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "wake",
-        "respuesta": "woke / woken",
-        "incorrecta1": "waked / waked",
-        "incorrecta2": "wokeded / wokeded",
-        "incorrecta3": "wokt / wokt"
+        "respuesta": "woke",
+        "incorrecta1": "waked",
+        "incorrecta2": "wokeded",
+        "incorrecta3": "wokt"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "wear",
-        "respuesta": "wore / worn",
-        "incorrecta1": "wored / worn",
-        "incorrecta2": "weared / wear",
-        "incorrecta3": "weartd / worn"
+        "respuesta": "wore",
+        "incorrecta1": "wored",
+        "incorrecta2": "weared",
+        "incorrecta3": "weartd"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "win",
-        "respuesta": "won / won",
-        "incorrecta1": "wont / wont",
-        "incorrecta2": "winded / winded",
-        "incorrecta3": "wonted / wined"
+        "respuesta": "won",
+        "incorrecta1": "wont",
+        "incorrecta2": "winded",
+        "incorrecta3": "wonted"
     },
 {
-        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "categoria": "Irregular Verbs - Past Simple",
         "pregunta": "write",
-        "respuesta": "wrote / written",
-        "incorrecta1": "writed / writed",
-        "incorrecta2": "wroted / wroted",
-        "incorrecta3": "wrided / written"
+        "respuesta": "wrote",
+        "incorrecta1": "writed",
+        "incorrecta2": "wroted",
+        "incorrecta3": "wrided"
     }
 ]

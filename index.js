@@ -121,7 +121,7 @@ function oprimir_btn(i) {
   setTimeout(() => {
     reiniciar();
     suspender_botones = false;
-  }, 3000);
+  }, 500);
 }
 
 // let p = prompt("numero")
