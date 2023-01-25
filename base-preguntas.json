@@ -264,6 +264,14 @@
         "incorrecta2": "hiard / heard",
         "incorrecta3": "heared / heard"
     },
+    {
+        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "pregunta": "hide",
+        "respuesta": "hid / hidden",
+        "incorrecta1": "hide / hidden",
+        "incorrecta2": "haid / hided",
+        "incorrecta3": "hided / hided"
+    },
 {
         "categoria": "Irregular Verbs - P.Simple / P.Participle",
         "pregunta": "hit",
@@ -295,6 +303,14 @@
         "incorrecta1": "knewen / knewn",
         "incorrecta2": "knowd / knowd",
         "incorrecta3": "knowded / knowed"
+    },
+    {
+        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "pregunta": "lay",
+        "respuesta": "laid / laid",
+        "incorrecta1": "laid / laiden",
+        "incorrecta2": "laided / laided",
+        "incorrecta3": "laidden / laidden"
     },
 
 {
@@ -456,6 +472,14 @@
         "incorrecta1": "seted / set",
         "incorrecta2": "seited / seitd",
         "incorrecta3": "souded / souded"
+    },
+    {
+        "categoria": "Irregular Verbs - P.Simple / P.Participle",
+        "pregunta": "sew",
+        "respuesta": "sewed / sewn",
+        "incorrecta1": "sewed / sewed",
+        "incorrecta2": "sewed / sewn",
+        "incorrecta3": "sown / sown"
     },
 {
         "categoria": "Irregular Verbs - P.Simple / P.Participle",
